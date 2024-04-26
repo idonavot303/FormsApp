@@ -11,7 +11,7 @@ Run these commands from the root folder.
 
 ## Frontend commands
 
-Run these commands from the `frontend` folder.
+Run these commands from the `client` folder.
 
 - `npm run start`: Starts the frontend development server.
-- `npm run build`: Builds the frontend app to the `build/frontend` directory.
+- `npm run build`: Builds the frontend app to the `build/client` directory.
