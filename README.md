@@ -15,3 +15,5 @@ Run these commands from the `client` folder.
 
 - `npm run start`: Starts the frontend development server.
 - `npm run build`: Builds the frontend app to the `build/client` directory.
+
+- asdasda
